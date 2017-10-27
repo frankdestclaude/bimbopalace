@@ -1,0 +1,248 @@
+[titreVisite=>Visite du Bimbo Palace]
+[PanoEntree=>BIMBO_PALACE_ENTREE]
+[introLP=>false]
+[arDemarre=>false]
+[arVitesse=>20]
+[atDemarre=>false]
+[atVitesse=>1]
+[atDemarrage=>4]
+[atType=>tours]
+[OrdrePanos=>0,7,3,1,6,2,4,5]
+[Panoramique=>fichier:/Users/fdsc/Downloads/BIMBO_PALACE_ENTREE.jpg;nb:6;nbImg:2;nbHTML:0;nbDiapo:0;titre:Entrée;type:sphere;afficheInfo:true;afficheTitre:true;regardX:-42.60000000000002;regardY:35.7;minLat:-70.35714285714285;maxLat:90.0;bMinLat:true;bMaxLat:true;fov:100.0;minfov:12.714285714285714;maxfov:157.61904761904762;zeroNord:-0.0;affichePlan:false;numeroPlan:-1;longitudeGeo:7.285223;latitudeGeo:43.701942]
+   [hotspot==>longitude:113.03225806451616;latitude:6.387096774193552;image:;xml:BIMBO_PALACE_SALON.xml;numXML:3;info:SALON;anime:false;regardX:0.0;regardY:0.0;champVisuel:100.0]
+   [hotspot==>longitude:166.06451612903226;latitude:6.0;image:;xml:BIMBO_PALACE_WC.xml;numXML:5;info:Toilettes;anime:false;regardX:0.0;regardY:0.0;champVisuel:100.0]
+   [hotspot==>longitude:-6.5806451612903345;latitude:5.225806451612911;image:;xml:BIMBO_PALACE_SALLE DE BAIN.xml;numXML:6;info:SALLE DE BAIN;anime:false;regardX:-1000.0;regardY:-1000.0]
+   [hotspot==>longitude:131.22580645161293;latitude:13.741935483870975;image:;xml:BIMBO_PALACE_TERRASSE.xml;numXML:4;info:TERRASSE;anime:false;regardX:0.0;regardY:0.0;champVisuel:100.0]
+   [hotspot==>longitude:18.19354838709677;latitude:-4.064516129032256;image:;xml:BIMBO_PALACE_COULOIR.xml;numXML:7;info:ENTREE / COULOIR;anime:false;regardX:0.0;regardY:0.0;champVisuel:100.0]
+   [hotspot==>longitude:-160.6451612903226;latitude:21.870967741935488;image:;xml:BIMBO_PALACE_WC.xml;numXML:5;info:Toilettes;anime:false;regardX:0.0;regardY:0.0;champVisuel:100.0]
+   [hotspotImage==>longitude:-56.12903225806451;latitude:38.12903225806452;image:;img:IMG_4170.jpg;urlImg:/Users/fdsc/Downloads/IMG_4170.jpg;couleur:#001a80;opacite:0.0;info:;anime:false]
+   [hotspotImage==>longitude:-44.51612903225808;latitude:-9.48387096774195;image:;img:IMG_1194.jpg;urlImg:/Users/fdsc/Downloads/IMG_1194.jpg;couleur:#001a80;opacite:0.8;info:Version Hiver;anime:false]
+[Panoramique=>fichier:/Users/fdsc/Downloads/BIMBO_PALACE_CHAMBRE.jpg;nb:1;nbImg:1;nbHTML:0;nbDiapo:0;titre:Chambre;type:sphere;afficheInfo:true;afficheTitre:true;regardX:44.51612903225808;regardY:23.41935483870968;minLat:-70.35714285714285;maxLat:90.0;bMinLat:true;bMaxLat:true;fov:150.0;minfov:12.714285714285714;maxfov:157.61904761904762;zeroNord:-2.3000000000000114;affichePlan:false;numeroPlan:-1;longitudeGeo:7.285223;latitudeGeo:43.701942]
+   [hotspot==>longitude:150.96774193548384;latitude:-8.709677419354833;image:;xml:BIMBO_PALACE_COULOIR.xml;numXML:7;info:COULOIR;anime:false;regardX:0.0;regardY:0.0;champVisuel:100.0]
+   [hotspotImage==>longitude:-123.87096774193549;latitude:39.67741935483871;image:;img:Frank grimace.JPG;urlImg:/Users/fdsc/Downloads/Frank grimace.JPG;couleur:#001a80;opacite:1.0;info:Coucou &dp-) ;anime:false]
+[Panoramique=>fichier:/Users/fdsc/Downloads/BIMBO_PALACE_CUISINE.jpg;nb:2;nbImg:2;nbHTML:0;nbDiapo:0;titre:Cuisine;type:sphere;afficheInfo:true;afficheTitre:true;regardX:28.258064516129025;regardY:9.483870967741936;minLat:-70.35714285714285;maxLat:90.0;bMinLat:true;bMaxLat:true;fov:150.0;minfov:12.714285714285714;maxfov:157.61904761904762;zeroNord:-0.0;affichePlan:false;numeroPlan:-1;longitudeGeo:7.285223;latitudeGeo:43.701942]
+   [hotspot==>longitude:97.93548387096774;latitude:-24.19354838709677;image:;xml:BIMBO_PALACE_TERRASSE.xml;numXML:4;info:Terrasse;anime:false;regardX:0.0;regardY:0.0;champVisuel:100.0]
+   [hotspot==>longitude:-31.35483870967741;latitude:-6.0;image:;xml:BIMBO_PALACE_ENTREE.xml;numXML:0;info:Entrée;anime:false;regardX:0.0;regardY:0.0;champVisuel:100.0]
+   [hotspotImage==>longitude:148.64516129032256;latitude:28.451612903225808;image:;img:kiki.JPG;urlImg:/Users/fdsc/Downloads/kiki.JPG;couleur:#b31a1a;opacite:0.8;info:Maison de Kiki;anime:false]
+   [hotspotImage==>longitude:-20.51612903225808;latitude:-0.9677419354838719;image:;img:chaise de Sab.JPG;urlImg:/Users/fdsc/Downloads/FDSC/chaise de Sab.JPG;couleur:#001a80;opacite:0.8;info:Une autre photo sublime de FDSC;anime:false]
+[Panoramique=>fichier:/Users/fdsc/Downloads/BIMBO_PALACE_SALON.jpg;nb:3;nbImg:2;nbHTML:0;nbDiapo:0;titre:Salon;type:sphere;afficheInfo:true;afficheTitre:true;regardX:-98.3225806451613;regardY:-20.322580645161295;minLat:-70.35714285714285;maxLat:90.0;bMinLat:true;bMaxLat:true;fov:140.0;minfov:12.714285714285714;maxfov:157.61904761904762;zeroNord:-0.0;affichePlan:false;numeroPlan:-1;longitudeGeo:7.285223;latitudeGeo:43.701942]
+   [hotspot==>longitude:-66.58064516129032;latitude:11.032258064516128;image:;xml:BIMBO_PALACE_ENTREE.xml;numXML:0;info:ENTREE;anime:false;regardX:0.0;regardY:0.0;champVisuel:100.0]
+   [hotspot==>longitude:138.5806451612903;latitude:15.677419354838705;image:;xml:BIMBO_PALACE_TERRASSE.xml;numXML:4;info:TERRASSE;anime:false;regardX:0.0;regardY:0.0;champVisuel:100.0]
+   [hotspot==>longitude:-73.54838709677419;latitude:19.548387096774192;image:;xml:BIMBO_PALACE_COULOIR.xml;numXML:7;info:ENTREE vue 2;anime:false;regardX:0.0;regardY:0.0;champVisuel:100.0]
+   [hotspotImage==>longitude:-120.7741935483871;latitude:25.354838709677423;image:;img:Frank grimace.JPG;urlImg:/Users/fdsc/Downloads/Frank grimace.JPG;couleur:#e6e64d;opacite:0.8;info:Coucou!!!;anime:false]
+   [hotspotImage==>longitude:-170.32258064516128;latitude:30.0;image:;img:pont de paris.jpg;urlImg:/Users/fdsc/Downloads/FDSC/pont de paris.jpg;couleur:#001a80;opacite:0.9810344827586207;info:Sublime photo de FDSC;anime:false]
+[Panoramique=>fichier:/Users/fdsc/Downloads/BIMBO_PALACE_TERRASSE.jpg;nb:2;nbImg:0;nbHTML:0;nbDiapo:0;titre:Terrasse;type:sphere;afficheInfo:true;afficheTitre:true;regardX:57.67741935483872;regardY:17.61290322580645;minLat:-70.35714285714285;maxLat:90.0;bMinLat:true;bMaxLat:true;fov:150.0;minfov:12.714285714285714;maxfov:157.61904761904762;zeroNord:0.0;affichePlan:false;numeroPlan:-1;longitudeGeo:7.285223;latitudeGeo:43.701942]
+   [hotspot==>longitude:-103.35483870967742;latitude:19.935483870967744;image:;xml:BIMBO_PALACE_CUISINE.xml;numXML:2;info:Cuisine;anime:false;regardX:0.0;regardY:0.0;champVisuel:100.0]
+   [hotspot==>longitude:-35.2258064516129;latitude:19.935483870967744;image:;xml:BIMBO_PALACE_SALON.xml;numXML:3;info:Salon;anime:false;regardX:0.0;regardY:0.0;champVisuel:100.0]
+[Panoramique=>fichier:/Users/fdsc/Downloads/BIMBO_PALACE_WC.jpg;nb:2;nbImg:0;nbHTML:0;nbDiapo:0;titre:Toilettes;type:sphere;afficheInfo:true;afficheTitre:true;regardX:-54.19354838709677;regardY:34.64516129032258;minLat:-70.35714285714285;maxLat:90.0;bMinLat:true;bMaxLat:true;fov:150.0;minfov:12.714285714285714;maxfov:157.61904761904762;zeroNord:0.0;affichePlan:false;numeroPlan:-1;longitudeGeo:7.285223;latitudeGeo:43.701942]
+   [hotspot==>longitude:34.451612903225794;latitude:7.935483870967744;image:;xml:BIMBO_PALACE_ENTREE.xml;numXML:0;info:ENTREE;anime:false;regardX:0.0;regardY:0.0;champVisuel:100.0]
+   [hotspot==>longitude:13.16129032258064;latitude:-0.5806451612903203;image:;xml:BIMBO_PALACE_COULOIR.xml;numXML:7;info:COULOIR;anime:false;regardX:0.0;regardY:0.0;champVisuel:100.0]
+[Panoramique=>fichier:/Users/fdsc/Downloads/BIMBO_PALACE_SALLE&spDE&spBAIN.jpg;nb:1;nbImg:1;nbHTML:0;nbDiapo:0;titre:Salle de bain;type:sphere;afficheInfo:true;afficheTitre:true;regardX:9.290322580645153;regardY:33.483870967741936;minLat:-70.35714285714285;maxLat:90.0;bMinLat:true;bMaxLat:true;fov:150.0;minfov:12.714285714285714;maxfov:157.61904761904762;zeroNord:-46.5;affichePlan:false;numeroPlan:-1;longitudeGeo:7.285223;latitudeGeo:43.701942]
+   [hotspot==>longitude:-150.96774193548387;latitude:-0.1935483870967829;image:;xml:BIMBO_PALACE_COULOIR.xml;numXML:7;info:ENTREE VUE 2;anime:false;regardX:0.0;regardY:0.0;champVisuel:100.0]
+   [hotspotImage==>longitude:75.09677419354838;latitude:14.903225806451616;image:;img:IMG_8854.jpg;urlImg:/Users/fdsc/Downloads/IMG_8854.jpg;couleur:#b3e6e6;opacite:0.8;info:Salle de bain avant les travaux (oct 2017);anime:false]
+[Panoramique=>fichier:/Users/fdsc/Downloads/BIMBO_PALACE_COULOIR.jpg;nb:5;nbImg:0;nbHTML:0;nbDiapo:0;titre:Entrée vue 2;type:sphere;afficheInfo:true;afficheTitre:true;regardX:-42.60000000000002;regardY:35.7;minLat:-70.35714285714285;maxLat:90.0;bMinLat:true;bMaxLat:true;fov:140.0;minfov:12.714285714285714;maxfov:157.61904761904762;zeroNord:-54.60000000000002;affichePlan:false;numeroPlan:-1;longitudeGeo:7.285223;latitudeGeo:43.701942]
+   [hotspot==>longitude:-48.0;latitude:12.967741935483872;image:;xml:BIMBO_PALACE_CHAMBRE.xml;numXML:1;info:CHAMBRE;anime:false;regardX:0.0;regardY:0.0;champVisuel:100.0]
+   [hotspot==>longitude:-94.06451612903226;latitude:10.25806451612904;image:;xml:BIMBO_PALACE_WC.xml;numXML:5;info:WC;anime:false;regardX:0.0;regardY:0.0;champVisuel:100.0]
+   [hotspot==>longitude:-113.41935483870968;latitude:7.548387096774192;image:;xml:BIMBO_PALACE_CUISINE.xml;numXML:2;info:CUISINE;anime:false;regardX:0.0;regardY:0.0;champVisuel:100.0]
+   [hotspot==>longitude:-150.96774193548387;latitude:3.677419354838719;image:;xml:BIMBO_PALACE_SALON.xml;numXML:3;info:SALON;anime:false;regardX:0.0;regardY:0.0;champVisuel:100.0]
+   [hotspot==>longitude:33.67741935483872;latitude:9.870967741935473;image:;xml:BIMBO_PALACE_SALLE DE BAIN.xml;numXML:6;info:SALLE DE BAIN;anime:false;regardX:0.0;regardY:0.0;champVisuel:100.0]
+[Interface=>
+styleBarre=glyphicons
+couleurBoutons=ffffff
+couleurHotspots=cc3333
+couleurHotspotsPhoto=334db3
+couleurHotspotsHTML=000000
+tailleHotspots=37
+tailleHotspotsPhoto=53
+tailleHotspotsHTML=25
+couleurMasque=ffffff
+styleHotspots=o_.gif
+styleHotspotImages=photo3.png
+styleHotspotHTML=graphics-world-globe-956220.gif
+position=bottom:center
+dX=0
+dY=10
+visible=oui
+suivantPrecedent=false
+deplacement=oui
+zoom=oui
+outils=oui
+rotation=oui
+FS=oui
+souris=oui
+espacementBoutons=16.166666666666664
+bCouleurOrigineBarrePersonnalisee=true
+nombreZonesBarrePersonnalisee=0
+offsetXBarrePersonnalisee=0.0
+offsetYBarrePersonnalisee=0.0
+tailleBarrePersonnalisee=100.0
+tailleIconesBarrePersonnalisee=40.0
+strPositionBarrePersonnalisee=bottom:right
+strDeplacementsBarrePersonnalisee=oui
+strZoomBarrePersonnalisee=oui
+strInfoBarrePersonnalisee=oui
+strAideBarrePersonnalisee=oui
+strRotationBarrePersonnalisee=oui
+strPleinEcranBarrePersonnalisee=oui
+strSourisBarrePersonnalisee=oui
+strVisibiliteBarrePersonnalisee=non
+strLienImageBarrePersonnalisee=
+strLien1BarrePersonnalisee=
+strLien2BarrePersonnalisee=
+couleurBarrePersonnalisee=0x000000ff
+afficheTitre=true
+afficheTitreVisite=true
+afficheTitrePanoramique=true
+titreAdapte=false
+titrePosition=center
+titreDecalage=10.0
+titrePolice=Arial Black
+titrePoliceTaille=17
+titreOpacite=0.35
+titreTaille=100.0
+titreCouleur=#ffffff
+titreFondCouleur=#000000
+bOmbreIB=true
+couleurTexteIB=#444
+couleurFondIB=#eee
+couleurBordureIB=#b34d1a
+policeIB=Verdana
+taillePoliceIB=10.666666666666668
+opaciteIB=1.0
+bordureIBLeft=5
+bordureIBRight=1
+bordureIBTop=1
+bordureIBBottom=1
+arrondiIBTL=0
+arrondiIBTR=5
+arrondiIBBL=0
+arrondiIBBR=5
+bFenetreInfoPersonnalise=true
+bFenetreAidePersonnalise=false
+strFenetreInfoImage =/Users/fdsc/Downloads/FDSC.PNG
+strFenetreAideImage=/Users/fdsc/Downloads/IMG_9265.PNG
+fenetreInfoTaille=26.388888888888893
+fenetreAideTaille=52.38095238095238
+fenetreInfoPosX=-2.0
+fenetreInfoPosY=200.0
+fenetreAidePosX=0.0
+fenetreAidePosY=0.0
+fenetreInfoOpacite=0.4841269841269841
+fenetreAideOpacite=0.32539682539682535
+strFenetreURL=
+strFenetreTexteURL=
+strFenetreURLInfobulle=
+strFenetreURLCouleur=#ffff99
+strFenetrePolice=Verdana
+fenetrePoliceTaille=24.9
+fenetreURLPosX=0.0
+fenetreURLPosY=72.0
+strFenetreCouleurFond=#ffffff
+fenetreOpaciteFond=0.8
+afficheBoussole=true
+imageBoussole=rose6.png
+tailleBoussole=59.5
+positionBoussole=top:right
+dXBoussole=18
+dYBoussole=495
+opaciteBoussole=0.8
+aiguilleMobile=true
+afficheMasque=true
+imageMasque=MA3.png
+tailleMasque=26.1
+positionMasque=top:right
+dXMasque=10
+dYMasque=1
+opaciteMasque=1.0
+masqueNavigation=true
+masqueBoussole=true
+masqueTitre=true
+masquePlan=true
+masqueReseaux=true
+masqueVignettes=true
+masqueCombo=true
+masqueSuivPrec=true
+masqueHotspots=true
+afficheReseauxSociaux=true
+tailleReseauxSociaux=43.6
+positionReseauxSociaux=top:right
+dXReseauxSociaux=58
+dYReseauxSociaux=20
+opaciteReseauxSociaux=1.0
+masqueTwitter=false
+masqueGoogle=false
+masqueFacebook=true
+masqueEmail=true
+afficheVignettes=true
+positionVignettes=bottom
+opaciteVignettes=0.35
+tailleImageVignettes=120
+couleurFondVignettes=#000000
+couleurTexteVignettes=#ffffff
+couleurPanoActif=#00ffff
+replieDemarrageVignettes=true
+bAfficheComboMenu=true
+bAfficheComboMenuImages=true
+positionXComboMenu=left
+positionYComboMenu=top
+offsetXComboMenu=10.0
+offsetYComboMenu=10.0
+bAfficheBoutonVisiteAuto=false
+tailleBoutonVisiteAuto=32.0
+positionXBoutonVisiteAuto=right
+positionYBoutonVisiteAuto=top
+offsetXBoutonVisiteAuto=10.0
+offsetYBoutonVisiteAuto=10.0
+affichePlan=false
+positionPlan=left
+opacitePlan=0.35
+largeurPlan=200
+couleurFondPlan=000000
+couleurTextePlan=ffffff
+afficheRadar=false
+opaciteRadar=0.5
+tailleRadar=40
+couleurFondRadar=c80000
+couleurLigneRadar=ffff00
+replieDemarragePlan=false
+afficheCarte=true
+nomLayer=OpenStreetMap
+centreLongitude=7.285223
+centreLatitude=43.701942
+positionCarte=left
+opaciteCarte=0.35
+largeurCarte=265
+hauteurCarte=244
+zoomCarte=15
+couleurFondCarte=000000
+couleurTexteCarte=ffffff
+afficheRadarCarte=false
+opaciteRadarCarte=0.4
+tailleRadarCarte=20
+couleurFondRadarCarte=c80000
+couleurLigneRadarCarte=c80000
+replieDemarrageCarte=true
+afficheMenuContextuel=true
+affichePrecSuivMC=false
+affichePlaneteNormalMC=true
+affichePersMC1=false
+affichePersMC2=false
+txtPersLib1=
+txtPersLib2=
+txtPersURL1=
+txtPersURL2=
+calqueTitre=1
+calqueBarreClassique=1
+calqueBarrePersonnalisee=1
+calqueMasquage=1
+calquePartage=1
+calqueVisiteAuto=1
+calquePlan=1
+calqueCarte=2
+calqueSuivPrec=1
+calqueBoussole=1
+calqueVignettes=1
+calqueMenuPanoramiques=1
+nombreImagesFond=1
+<image=/Users/fdsc/Downloads/FDSC.PNG#posX=right#posY=bottom#offsetX=40.0#offsetY=-51.0#tailleX=75#tailleY=39#opacite=1.0#masquable=true#type=aucun#numDiapo=-1#cible=interne#url=#infobulle=#calque=1#>
+]
