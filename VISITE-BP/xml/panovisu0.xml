@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+     Visite générée par l'éditeur panoVisu 
+
+             Création L.LANG      le monde à 360°  : http://lemondea360.fr
+
+             fichier image : /Users/fdsc/Downloads/BIMBO_PALACE_ENTREE.jpg
+
+-->
+
+
+<scene>
+   <pano 
+      image="panos/panovisu0"
+      afftitre="oui"
+      titre="Visite du Bimbo Palace"
+      titre2="Entrée"
+      titrePosition="center"
+      titreDecalage="10px"
+      titrePolice="Arial Black"
+      titreTaillePolice="17px"
+      titreTaillePolice2="13px"
+      titreCalque="1"
+      titreTaille="100%"
+      titreFond="rgba(0,0,0,0.34920634920634924)"
+      titreCouleur="#ffffff"
+      type="sphere"
+      multiReso="oui"
+      nombreNiveaux="3.0"
+      zeroNord="-180.0"
+      regardX="-222.0"
+      regardY="35"
+      minFOV="12"
+      maxFOV="157"
+      champVisuel="50"
+      minLat="-70"
+      maxLat="90"
+      autorotation="non"
+      vitesseAR="20"
+      autotour="non"
+      atBouton="non"
+      atBoutonTaille="32.0"
+      atBoutonPositionX="right"
+      atBoutonPositionY="top"
+      atBoutonOffsetX="10.0"
+      atBoutonOffsetY="10.0"
+      atCalque="1"
+      typeAT="tours"
+      limiteAT="1"
+      demarrageAT="4"
+      affinfo="oui"
+      petitePlanete="non"
+      replieCarte="oui"
+      replieVignettes="oui"
+   />
+   <!--Définition de la Barre de navigation-->
+   <boutons 
+      styleBoutons="navigation"
+      couleur="rgba(255,255,255,0)"
+      bordure="rgba(255,255,255,0)"
+      deplacements="oui" 
+      zoom="oui" 
+      outils="oui"
+      fs="oui" 
+      souris="oui" 
+      rotation="oui" 
+      positionX="center"
+      positionY="bottom" 
+      barreCCalque="1"
+      dX="0.0" 
+      dY="10.0"
+      espacement="16"
+      visible="oui"
+   />
+<!--  Boussole -->
+    <boussole 
+        affiche="oui"
+        image="rose6.png"
+        taille="59.5"
+        positionY="top"
+        positionX="right"
+        opacite="0.8"
+        dX="18.0"
+        dY="495.0"
+        boussoleCalque="1"
+        aiguille="oui"
+    />
+<!--  Fenêtre info personnalisée -->
+    <fenetreInfo 
+        affiche="oui"
+        image="images/FDSC.PNG"
+        taille="26.388888888888893"
+        opacite="0.4841269841269841"
+        dX="-2"
+        dY="200"
+        URL=""
+        texteURL=""
+        couleurURL="#ffff99"
+        TailleURL="24"
+        URLdX="0"
+        URLdY="72"
+    />
+<!--  MenuContextuel -->
+    <menuContextuel 
+        affiche="oui"
+        precSuiv="non"
+        planete="oui"
+        pers1="non"
+        lib1=""
+        url1=""
+        pers2="non"
+        lib2=""
+        url2=""
+    />
+<!--  Bouton Suivant Precedent -->
+    <suivantPrecedent
+        suivPrecCalque="1"
+        suivant="xml/panovisu7.xml"            
+        precedent="xml/panovisu5.xml"            
+    />    
+<!--  Bouton de Masquage -->
+    <marcheArret 
+        affiche="oui"
+        image="MA.png"
+        taille="26.1"
+        positionY="top"
+        positionX="right"
+        opacite="1.0"
+        dX="10.0"
+        dY="1.0"
+        navigation="oui"
+        boussole="oui"
+        titre="oui"
+        plan="oui"
+        reseaux="oui"
+        masquageCalque="1"
+        vignettes="oui"
+        combo="oui"
+        suivPrec="oui"
+        hotspots="oui"
+    />
+<!--  Réseaux Sociaux -->
+    <reseauxSociaux 
+        affiche="oui"
+        taille="43.57142857142857"
+        positionY="top"
+        positionX="right"
+        opacite="1.0"
+        dX="58.0"
+        dY="20.0"
+        partageCalque="1"
+        twitter="non"
+        google="non"
+        facebook="oui"
+        email="oui"
+    />
+<!-- Barre des vignettes -->    <vignettes 
+        affiche="oui"
+        tailleImage="120.0"
+        fondCouleur="rgba(0,0,0,0.34920634920634924)"
+        texteCouleur="#ffffff"
+        couleurPanoActif="#00ffff"
+        opacite="1.0"
+        vignettesCalque="1"
+        position="bottom"
+    >
+        <imageVignette 
+            image="panos/panovisu0Vignette.jpg"
+            xml="xml/panovisu0.xml"
+            panoActif="oui"
+            infoBulle="Entrée"
+        />
+        <imageVignette 
+            image="panos/panovisu7Vignette.jpg"
+            xml="xml/panovisu7.xml"
+            panoActif="non"
+            infoBulle="Entrée vue 2"
+        />
+        <imageVignette 
+            image="panos/panovisu3Vignette.jpg"
+            xml="xml/panovisu3.xml"
+            panoActif="non"
+            infoBulle="Salon"
+        />
+        <imageVignette 
+            image="panos/panovisu1Vignette.jpg"
+            xml="xml/panovisu1.xml"
+            panoActif="non"
+            infoBulle="Chambre"
+        />
+        <imageVignette 
+            image="panos/panovisu6Vignette.jpg"
+            xml="xml/panovisu6.xml"
+            panoActif="non"
+            infoBulle="Salle de bain"
+        />
+        <imageVignette 
+            image="panos/panovisu2Vignette.jpg"
+            xml="xml/panovisu2.xml"
+            panoActif="non"
+            infoBulle="Cuisine"
+        />
+        <imageVignette 
+            image="panos/panovisu4Vignette.jpg"
+            xml="xml/panovisu4.xml"
+            panoActif="non"
+            infoBulle="Terrasse"
+        />
+        <imageVignette 
+            image="panos/panovisu5Vignette.jpg"
+            xml="xml/panovisu5.xml"
+            panoActif="non"
+            infoBulle="Toilettes"
+        />
+    </vignettes>       
+<!-- Barre des comboMenu -->    <comboMenu 
+        affiche="oui"
+        positionX="left"
+        positionY="top"
+        dX="10.0"
+        comboCalque="1"
+        dY="10.0"
+    >
+        <imageComboMenu 
+            image="panos/panovisu0Vignette.jpg"
+            selectionne="selected"
+            xml="xml/panovisu0.xml"
+            titre="Entrée"
+            sousTitre="Visite du Bimbo Palace"
+        />
+        <imageComboMenu 
+            image="panos/panovisu7Vignette.jpg"
+            xml="xml/panovisu7.xml"
+            titre="Entrée vue 2"
+            sousTitre="Visite du Bimbo Palace"
+        />
+        <imageComboMenu 
+            image="panos/panovisu3Vignette.jpg"
+            xml="xml/panovisu3.xml"
+            titre="Salon"
+            sousTitre="Visite du Bimbo Palace"
+        />
+        <imageComboMenu 
+            image="panos/panovisu1Vignette.jpg"
+            xml="xml/panovisu1.xml"
+            titre="Chambre"
+            sousTitre="Visite du Bimbo Palace"
+        />
+        <imageComboMenu 
+            image="panos/panovisu6Vignette.jpg"
+            xml="xml/panovisu6.xml"
+            titre="Salle de bain"
+            sousTitre="Visite du Bimbo Palace"
+        />
+        <imageComboMenu 
+            image="panos/panovisu2Vignette.jpg"
+            xml="xml/panovisu2.xml"
+            titre="Cuisine"
+            sousTitre="Visite du Bimbo Palace"
+        />
+        <imageComboMenu 
+            image="panos/panovisu4Vignette.jpg"
+            xml="xml/panovisu4.xml"
+            titre="Terrasse"
+            sousTitre="Visite du Bimbo Palace"
+        />
+        <imageComboMenu 
+            image="panos/panovisu5Vignette.jpg"
+            xml="xml/panovisu5.xml"
+            titre="Toilettes"
+            sousTitre="Visite du Bimbo Palace"
+        />
+    </comboMenu>       
+    <!--Définition des hotspots-->  
+   <hotspots>
+      <point 
+           type="panoramique"
+           long="-66.96774193548384"
+           lat="6.387096774193552"
+           tailleHS="37px"
+           image="panovisu/images/hotspots/o_.gif"
+           xml="xml/panovisu3.xml"
+           regardX="0.0"
+           regardY="0.0"
+           champVisuel="50.0"
+           info="SALON"
+           anime="false"
+      />
+      <point 
+           type="panoramique"
+           long="-13.935483870967744"
+           lat="6.0"
+           tailleHS="37px"
+           image="panovisu/images/hotspots/o_.gif"
+           xml="xml/panovisu5.xml"
+           regardX="0.0"
+           regardY="0.0"
+           champVisuel="50.0"
+           info="Toilettes"
+           anime="false"
+      />
+      <point 
+           type="panoramique"
+           long="-186.58064516129033"
+           lat="5.225806451612911"
+           tailleHS="37px"
+           image="panovisu/images/hotspots/o_.gif"
+           xml="xml/panovisu6.xml"
+           regardX="-1000.0"
+           regardY="-1000.0"
+           info="SALLE DE BAIN"
+           anime="false"
+      />
+      <point 
+           type="panoramique"
+           long="-48.774193548387075"
+           lat="13.741935483870975"
+           tailleHS="37px"
+           image="panovisu/images/hotspots/o_.gif"
+           xml="xml/panovisu4.xml"
+           regardX="0.0"
+           regardY="0.0"
+           champVisuel="50.0"
+           info="TERRASSE"
+           anime="false"
+      />
+      <point 
+           type="panoramique"
+           long="-161.80645161290323"
+           lat="-4.064516129032256"
+           tailleHS="37px"
+           image="panovisu/images/hotspots/o_.gif"
+           xml="xml/panovisu7.xml"
+           regardX="0.0"
+           regardY="0.0"
+           champVisuel="50.0"
+           info="ENTREE / COULOIR"
+           anime="false"
+      />
+      <point 
+           type="panoramique"
+           long="-340.64516129032256"
+           lat="21.870967741935488"
+           tailleHS="37px"
+           image="panovisu/images/hotspots/o_.gif"
+           xml="xml/panovisu5.xml"
+           regardX="0.0"
+           regardY="0.0"
+           champVisuel="50.0"
+           info="Toilettes"
+           anime="false"
+      />
+      <point 
+           type="image"
+           long="-236.1290322580645"
+           lat="38.12903225806452"
+           tailleHS="53px"
+           image="panovisu/images/hotspots/hotspotImage.png"
+           img="images/IMG_4170.jpg"
+           info=""
+           couleur="rgba(0,26,128,0.0)"
+           anime="false"
+      />
+      <point 
+           type="image"
+           long="-224.51612903225808"
+           lat="-9.48387096774195"
+           tailleHS="53px"
+           image="panovisu/images/hotspots/hotspotImage.png"
+           img="images/IMG_1194.jpg"
+           info="Version Hiver"
+           couleur="rgba(0,26,128,0.8)"
+           anime="false"
+      />
+   </hotspots>
+
+<!-- Définition des images de fond -->
+
+    <imageFond
+        fichier="images/FDSC.PNG"
+        posX="right" 
+        posY="bottom" 
+        offsetX="40.0" 
+        offsetY="-51.0" 
+        tailleX="75" 
+        tailleY="39" 
+        opacite="1.0" 
+        cible="interne" 
+        calque="1"
+        masquable="oui" 
+        url="" 
+        infobulle="" 
+    />
+    <carte
+        affiche="oui" 
+        largeur="265.0793650793651"
+        hauteur="244.44444444444446"
+        zoom="16"
+        coordCentreLong="7.285223"
+        coordCentreLat="43.701942"
+        nomLayer="OpenStreetMap"
+        position="left"
+        carteCalque="2"
+        bingAPIKey=""
+        couleurFond="rgba(0,0,0,0.34920634920634924)"
+        couleurTexte="#ffffff"
+        radarCarteAffiche="non"
+        radarCarteTaille="20"
+        radarCarteCouleurFond="#c80000"
+        radarCarteCouleurLigne="#c80000"
+        radarCarteOpacite="0.4"
+    >
+        <pointCarte
+            positX="7.285223"
+            positY="43.701942"
+            xml="actif"
+            image="panos/panovisu0Vignette.jpg"
+            html="&lt;span style='font-family : Verdana,Arial,sans-serif;font-weight:bold;font-size : 12px;'&gt;Entrée&lt;/span&gt;"
+            />  
+        <pointCarte
+            positX="7.285223"
+            positY="43.701942"
+            xml="xml/panovisu1.xml"
+            image="panos/panovisu1Vignette.jpg"
+            html="&lt;span style='font-family : Verdana,Arial,sans-serif;font-weight:bold;font-size : 12px;'&gt;Chambre&lt;/span&gt;"
+            />  
+        <pointCarte
+            positX="7.285223"
+            positY="43.701942"
+            xml="xml/panovisu2.xml"
+            image="panos/panovisu2Vignette.jpg"
+            html="&lt;span style='font-family : Verdana,Arial,sans-serif;font-weight:bold;font-size : 12px;'&gt;Cuisine&lt;/span&gt;"
+            />  
+        <pointCarte
+            positX="7.285223"
+            positY="43.701942"
+            xml="xml/panovisu3.xml"
+            image="panos/panovisu3Vignette.jpg"
+            html="&lt;span style='font-family : Verdana,Arial,sans-serif;font-weight:bold;font-size : 12px;'&gt;Salon&lt;/span&gt;"
+            />  
+        <pointCarte
+            positX="7.285223"
+            positY="43.701942"
+            xml="xml/panovisu4.xml"
+            image="panos/panovisu4Vignette.jpg"
+            html="&lt;span style='font-family : Verdana,Arial,sans-serif;font-weight:bold;font-size : 12px;'&gt;Terrasse&lt;/span&gt;"
+            />  
+        <pointCarte
+            positX="7.285223"
+            positY="43.701942"
+            xml="xml/panovisu5.xml"
+            image="panos/panovisu5Vignette.jpg"
+            html="&lt;span style='font-family : Verdana,Arial,sans-serif;font-weight:bold;font-size : 12px;'&gt;Toilettes&lt;/span&gt;"
+            />  
+        <pointCarte
+            positX="7.285223"
+            positY="43.701942"
+            xml="xml/panovisu6.xml"
+            image="panos/panovisu6Vignette.jpg"
+            html="&lt;span style='font-family : Verdana,Arial,sans-serif;font-weight:bold;font-size : 12px;'&gt;Salle de bain&lt;/span&gt;"
+            />  
+        <pointCarte
+            positX="7.285223"
+            positY="43.701942"
+            xml="xml/panovisu7.xml"
+            image="panos/panovisu7Vignette.jpg"
+            html="&lt;span style='font-family : Verdana,Arial,sans-serif;font-weight:bold;font-size : 12px;'&gt;Entrée vue 2&lt;/span&gt;"
+            />  
+    </carte>
+</scene>
